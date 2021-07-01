@@ -1,0 +1,15 @@
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.csproj.AssemblyReference.cache
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.AssemblyInfoInputs.cache
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.AssemblyInfo.cs
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.csproj.CoreCompileInputs.cache
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.deps.json
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.runtimeconfig.json
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.runtimeconfig.dev.json
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.dll
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/ref/RestaurantMenu.dll
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.pdb
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.dll
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/ref/RestaurantMenu.dll
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.pdb
+/Users/Charlie/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.genruntimeconfig.cache
